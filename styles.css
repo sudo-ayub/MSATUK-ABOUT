@@ -57,6 +57,7 @@ h2 {
 
 body {
     padding-top: 60px;
+    background-color: antiquewhite;
 }
 
 /* Three columns side by side */
@@ -110,4 +111,5 @@ body {
 
 .button:hover {
   background-color: #555;
+
 }
